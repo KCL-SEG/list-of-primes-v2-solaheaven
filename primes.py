@@ -1,5 +1,5 @@
 """List of prime numbers generator."""
-"""ENTER YOUR SOLUTION HERE!"""
+"""Salihah Alnahdi K2005534"""
 
 def primes(number_of_primes):
     list = []
